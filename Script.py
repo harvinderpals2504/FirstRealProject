@@ -1,3 +1,3 @@
-print("Everything is easy for me.")
+print("Everything is easy for me. I am Timeless")
+print("I am a rich person")
 
-print("I a, Timeless")
